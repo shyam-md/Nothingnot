@@ -1,22 +1,23 @@
-<!-- Professional Hacker-Themed GitHub Profile README for Cyber Security Students -->
+<!-- Hacker-Themed GitHub Profile README with Matrix Effect -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shyam;Cyber+Security+Engineering+Student;Ethical+Hacking+Enthusiast;Always+Learning+%26+Improving" alt="Typing SVG" />
-</h1>
-
+<!-- Matrix Code Rain GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26Ff8hH1lI0lbOrX6/giphy.gif" width="600px" alt="hacker animation">
+  <img src="https://i.gifer.com/origin/d9/d9c5af3a1f394823d57fca8c3d798939_w200.gif" alt="Matrix Code Rain" width="100%" />
 </p>
 
+<!-- Logo / Banner -->
+<p align="center">
+  <img src="LOGO_URL_HERE" alt="Shyam Hacker Logo" width="200px">
+</p>
+
+<!-- Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I+am+Shyam;Cyber+Security+Engineering+Student;Ethical+Hacker+%7C+Bug+Bounty+Hunter;Security+is+a+Process%2C+Not+a+Product" alt="Typing SVG" />
+</h1>
+
 ---
 
-## 🛡 About Me  
-🎓 **Cyber Security Engineering (2nd Year)** student  
-🔍 Focused on **Offensive Security** and **Penetration Testing**  
-💻 Passionate about **Ethical Hacking** & **Digital Forensics**  
-📖 Constant learner, solving **CTF challenges** & exploring **bug bounties**  
-
----
+## 🛡 About Me
 
 ## ⚙ Skills & Tools
 ---
