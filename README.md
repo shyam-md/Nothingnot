@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Matrix Rain](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2YmRjNjEyMzA1ZjBiZTk2NzE1NmExODdiOWQxMGE4ODViYTQxOCZjdD1n/U3qYN8S0j3bpK/giphy.gif)
+![Matrix Rain](https://media.giphy.com/media/3o7aD6woWCfZUu1Q4k/giphy.gif)
 
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Accessing+GitHub+Profile...;User%3A+Shyam;Status%3A+Cyber+Security+Engineering+Student;Loading+Ethical+Hacking+Modules...;System+Ready+%E2%9C%94" alt="Typing SVG" />
