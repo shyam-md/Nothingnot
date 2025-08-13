@@ -1,21 +1,54 @@
-<!-- Hacker-Themed GitHub Profile README with Matrix Effect -->
+---
 
-<!-- Matrix Code Rain GIF -->
-<p align="center">
-  <img src="https://i.gifer.com/origin/d9/d9c5af3a1f394823d57fca8c3d798939_w200.gif" alt="Matrix Code Rain" width="100%" />
-</p>
+## 🛠 Tech Arsenal
 
-<!-- Logo / Banner -->
-<p align="center">
-  <img src="LOGO_URL_HERE" alt="Shyam Hacker Logo" width="200px">
-</p>
-
-<!-- Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;I+am+Shyam;Cyber+Security+Engineering+Student;Ethical+Hacker+%7C+Bug+Bounty+Hunter;Security+is+a+Process%2C+Not+a+Product" alt="Typing SVG" />
-</h1>
+| Category            | Tools / Skills |
+|---------------------|---------------|
+| **Security Tools**  | Nmap, Burp Suite, Metasploit, Hydra, JohnTheRipper, Wireshark |
+| **OS & Platforms**  | Kali Linux, Parrot OS, Ubuntu, Windows Server |
+| **Programming**     | Python, Bash, C, Java |
+| **Specialties**     | Network Security, Web App Pentesting, OSINT, Malware Analysis |
 
 ---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyam-md&show_icons=true&theme=chartreuse-dark" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-md&theme=chartreuse-dark" height="165px"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+- 🔐 **[VulnHunter](#)** — Automated Vulnerability Scanner in Python  
+- 🕵️ **[OSINT-Toolkit](#)** — Reconnaissance toolkit for gathering open-source intelligence  
+- 🛡 **[WebShield](#)** — Web app firewall & intrusion detection prototype  
+
+---
+
+## 📜 Certifications & Achievements
+- ✅ Completed **TryHackMe Pre Security & Jr Penetration Tester Paths**  
+- 🥇 Top 5% in **Hack The Box CTF Challenges**  
+- 🛡 **EC-Council CEH (in progress)**  
+
+---
+
+## 📚 Currently Learning
+- Advanced Penetration Testing  
+- Bug Bounty Methodologies  
+- Reverse Engineering & Malware Analysis  
+- OSCP Preparation  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam7dx)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/shyam-md)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:shyam7dx@gmail.com)  
+
+---
+
+<!-- Hacker ASCII -->
 
 ## 🛡 About Me
 
