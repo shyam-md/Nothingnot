@@ -1,25 +1,24 @@
-<!-- Cyberpunk / Hacker Style GitHub Profile README with Hacker Terminal Animation + Matrix Rain -->
+<!-- Professional Hacker-Themed GitHub Profile README for Cyber Security Students -->
 
-<div align="center">
-  
-![Matrix Rain](https://media.giphy.com/media/3o7aD6woWCfZUu1Q4k/giphy.gif)
-
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Accessing+GitHub+Profile...;User%3A+Shyam;Status%3A+Cyber+Security+Engineering+Student;Loading+Ethical+Hacking+Modules...;System+Ready+%E2%9C%94" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Shyam;Cyber+Security+Engineering+Student;Ethical+Hacking+Enthusiast;Always+Learning+%26+Improving" alt="Typing SVG" />
 </h1>
 
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/26Ff8hH1lI0lbOrX6/giphy.gif" width="600px" alt="hacker animation">
+</p>
 
 ---
 
 ## 🛡 About Me  
-💻 **Cyber Security Engineering (2nd Year)** student passionate about **ethical hacking**, **penetration testing**, and **network defense**.  
-🔍 Exploring vulnerabilities, securing systems, and learning advanced cyber defense techniques.  
+🎓 **Cyber Security Engineering (2nd Year)** student  
+🔍 Focused on **Offensive Security** and **Penetration Testing**  
+💻 Passionate about **Ethical Hacking** & **Digital Forensics**  
+📖 Constant learner, solving **CTF challenges** & exploring **bug bounties**  
 
 ---
 
-### 🚀 Skills & Tools
-
+## ⚙ Skills & Tools
 ---
 
 ### 📊 GitHub Stats
