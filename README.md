@@ -1,38 +1,34 @@
-# Nothingnot
-# Hi there, I'm [Shyam] 👋
+---
 
-Welcome to my GitHub profile!
-
-I am a **Cyber Security Engineering student** passionate about safeguarding digital assets, threat analysis, and developing secure systems. My academic journey has equipped me with hands-on experience in:
-
-- Network and application security
-- Penetration testing & vulnerability assessment
-- Security architecture & compliance frameworks
-- Cryptography and secure coding
-
-### 🚀 Skills & Interests
-- Programming: Python, C/C++, Bash
-- Tools: Wireshark, Nessus, Metasploit, Burp Suite
-- Interests: Ethical hacking, malware analysis, cloud security
-
-### 📚 Projects
-Here you'll find my academic projects, security scripts, and personal development efforts. Some highlights include:
-- Automated vulnerability scanners
-- Simple cryptographic implementations
-- Security analysis reports
-
-### 🌱 Currently Learning
-- Cloud security principles (AWS, Azure basics)
-- Red/Blue Team operations simulations
-- Advanced attacker techniques & defenses
-
-### 🤝 Let's Connect!
-I'm always eager to collaborate on security-related projects or join discussions about cyber defense. Feel free to reach out!
-
-- [LinkedIn](#) | [Email](#)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shyam-md&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shyam-md&theme=tokyonight" alt="GitHub Streak" height="165px"/>
+</p>
 
 ---
 
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Cyber%20Security-Student-green" alt="Cyber Security Student Badge"/>
+### 🔥 Currently Learning
+- Penetration Testing  
+- Bug Bounty Hunting  
+- CTF Challenges (TryHackMe, HackTheBox)  
+- OSCP & CEH Preparation  
+
+---
+
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyam7dx)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white)](https://github.com/shyam-md)  
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:shyam7dx@gmail.com)  
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shyam-md&theme=matrix&no-frame=true&margin-w=15&row=1" alt="trophies"/>
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>"The quieter you become, the more you can hear."</i> ⚡
 </p>
