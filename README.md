@@ -1,3 +1,25 @@
+<!-- Cyberpunk / Hacker Style GitHub Profile README with Hacker Terminal Animation + Matrix Rain -->
+
+<div align="center">
+  
+![Matrix Rain](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjM2YmRjNjEyMzA1ZjBiZTk2NzE1NmExODdiOWQxMGE4ODViYTQxOCZjdD1n/U3qYN8S0j3bpK/giphy.gif)
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=Accessing+GitHub+Profile...;User%3A+Shyam;Status%3A+Cyber+Security+Engineering+Student;Loading+Ethical+Hacking+Modules...;System+Ready+%E2%9C%94" alt="Typing SVG" />
+</h1>
+
+</div>
+
+---
+
+## 🛡 About Me  
+💻 **Cyber Security Engineering (2nd Year)** student passionate about **ethical hacking**, **penetration testing**, and **network defense**.  
+🔍 Exploring vulnerabilities, securing systems, and learning advanced cyber defense techniques.  
+
+---
+
+### 🚀 Skills & Tools
+
 ---
 
 ### 📊 GitHub Stats
